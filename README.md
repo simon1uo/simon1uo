@@ -1,8 +1,4 @@
-![heres-simon](https://raw.githubusercontent.com/simon1uo/simon1uo/main/public/heres-simon.svg)
-
-
-
-
+nothing here yet
 <!--
 **simon1uo/simon1uo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

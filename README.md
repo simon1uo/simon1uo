@@ -1,5 +1,5 @@
 ### 🥳 nice 2 meet you, I'm [Simon](https://github.com/simon1uo)
-
+[![wakatime](https://wakatime.com/badge/user/35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8.svg)](https://wakatime.com/@35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8)
 
 + ⛳️ I'm currently learning frontend techniques day by day x.
 + ✍🏻 I'm building & writing my own blog page [🧳here](https://simon1uo.github.io) with some insteresting contents, and my front-end [📚notebooks](https://simon1uo.github.io/notebook).
@@ -24,7 +24,6 @@
 
 #### 📈 My stats
 
-[![wakatime](https://wakatime.com/badge/user/35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8.svg)](https://wakatime.com/@35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8)
 ![github-overview](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/overview.svg)
 ![code-languages](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/languages.svg)
 

@@ -1,5 +1,6 @@
 ### 🥳 nice 2 meet you, I'm [Simon](https://github.com/simon1uo)
 
+
 + ⛳️ I'm currently learning frontend techniques day by day x.
 + ✍🏻 I'm building & writing my own blog page [🧳here](https://simon1uo.github.io) with some insteresting contents, and my front-end [📚notebooks](https://simon1uo.github.io/notebook).
 + 💡 more ...
@@ -21,8 +22,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-#### 📈 My Github stats
+#### 📈 My stats
 
-![](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/overview.svg)
-![](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/languages.svg)
+[![wakatime](https://wakatime.com/badge/user/35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8.svg)](https://wakatime.com/@35de976a-b6a0-4d20-93bb-9a0d5f8a9ce8)
+![github-overview](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/overview.svg)
+![code-languages](https://github.com/simon1uo/s1mon-github-stats/blob/master/generated/languages.svg)
 
